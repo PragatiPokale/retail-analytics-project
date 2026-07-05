@@ -103,7 +103,7 @@ Built an interactive Power BI / Tableau dashboard with:
 - Customer segment breakdown (from RFM output)
 - Churn risk table for the sales/retention team
 
-*(Add your live dashboard link here, e.g. Tableau Public URL)*
+Dashboard file available at `dashboard/retail_dashboard.pbix` — open in Power BI Desktop (free) to explore interactively.
 
 ## Recommendations
 *(Fill in based on your actual findings)*
